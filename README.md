@@ -1,2 +1,2 @@
 # picgo
-Heox图床
+HEXO图床
